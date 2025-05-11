@@ -1,4 +1,4 @@
-Mini-Project 1: Adaptive Cruise Control in CARLA
+Adaptive Cruise Control in CARLA
 =================================================
 
 ## Overview
